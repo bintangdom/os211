@@ -3,15 +3,17 @@
 # LogCode https://osp4diss.vlsm.org/ETC/logCodes.txt
 
 # Week 0
-ZCZC W00 35 L00 General Log (Updating mylog.txt)
-ZCZC W00 10 L01 SCELE related
-ZCZC W00 80 L02 ZOOM related
-ZCZC W00 30 L03 GitHub related ( Create OS repository on Github)
-ZCZC W00 10 L04 Getting Started with GitHub pages
-ZCZC W00 20 L05 GSGS related
-ZCZC W00 25 L06 Reading OS Slides
-ZCZC W00 15 L23 Discord discussion (Checking info on Discord)
-ZCZC W00 L99 Other (Listening to music on Youtube)
+ZCZC W00 50 L00 General Log (Updating mylog.txt)
+ZCZC W00 120 L01 SCELE related
+ZCZC W00 100 L02 ZOOM related
+ZCZC W00 30 L03 GitHub related ( Create OS211 repository on Github)
+ZCZC W00 20 L04 Getting Started with GitHub pages
+ZCZC W00 60 L05 GSGS related
+ZCZC W00 50 L06 Reading OS Slides
+ZCZC W00 300 L22 YouTube: Watching linux tutorial
+ZCZC W00 50 L23 Discord discussion (Checking info on Discord)
+ZCZC W00 180 L26 Movie Time and relax
+ZCZC W00 150 L99 Other (Belajar C language, Shell Scripting)
 
 
 

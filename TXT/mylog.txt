@@ -10,6 +10,7 @@ ZCZC W00 30 L03 GitHub related ( Create OS211 repository on Github)
 ZCZC W00 20 L04 Getting Started with GitHub pages
 ZCZC W00 60 L05 GSGS related
 ZCZC W00 50 L06 Reading OS Slides
+ZCZC W00 210 L21 VirtualBox: install GNU/Linux
 ZCZC W00 300 L22 YouTube: Watching linux tutorial
 ZCZC W00 50 L23 Discord discussion (Checking info on Discord)
 ZCZC W00 180 L26 Movie Time and relax

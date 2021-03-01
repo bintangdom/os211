@@ -8,4 +8,4 @@ Perjalanan Saya dalam memahami Sistem Operasi , log saya :[MYLOG](https://github
 
 
 # Operating Systems Weekly Top Ten List :
-* <b>[Week 01](https://github.com/bintangdom/os211/blob/main/w01.md)</b>  
+* <b>[Week 01](https://bintangdom.github.io/os211/W01/)</b>  

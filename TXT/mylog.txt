@@ -16,5 +16,8 @@ ZCZC W00 50 L23 Discord discussion (Checking info on Discord)
 ZCZC W00 180 L26 Movie Time and relax
 ZCZC W00 150 L99 Other (Belajar C language, Shell Scripting)
 
-
+# Week 1
+ZCZC W00 40 L00 General Log 
+ZCZC W00 30 L01 SCELE related
+ZCZC W00 100 L02 ZOOM related
 

@@ -21,15 +21,18 @@ ZCZC W01 40 L00 General Log
 ZCZC W01 60 L01 SCELE related
 ZCZC W01 100 L02 ZOOM related
 ZCZC W01 90 L05 GSGS related for top 10 List of Week 01
+ZCZC W00 90 L06 Reading OS Slides
 ZCZC W01 30 L07 Demo related (bash, regex, awk, sed)
-ZCZC W01 45 L11 Assignment #1 : Creating and import Debian Virtual Guest
-ZCZC W01 60 L12 Assignment #2 : Read reference from slide and internet
-ZCZC W01 40 L13 Assignment #3 : Learning CLI basic commands
+ZCZC W01 50 L11 Assignment #1 : Creating and import Debian Virtual Guest
+ZCZC W01 120 L12 Assignment #2 : Read reference from slide and internet
+ZCZC W01 90 L13 Assignment #3 : Learning CLI basic commands
 ZCZC W01 30 L14 Assignment #4 : Creating a new user account same as my GitHub account
-ZCZC W01 50 L15 Assignment #5 : Learning CLI basic commands
+ZCZC W01 90 L15 Assignment #5 : Learning CLI basic commands
 ZCZC W01 35 L16 Assignment #6 : Do GIT PULL to my repo "os211" from Github.com
 ZCZC W01 20 L17 Assignment #7 : Update and PUSH back my log
-ZCZC W01 100 L17 Assignment #8 : Creating my w01.md for weekly TOP 10 list
+ZCZC W01 100 L18 Assignment #8 : Creating my w01.md for weekly TOP 10 list
+ZCZC W01 200 L26 Movie Time and relax
+
 
 
 

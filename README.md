@@ -2,6 +2,7 @@
 
 ### ***************************************************************************************************************************************************
 
+## Halo!
 ## Nama Saya Bintang Dominique ⭐ 
 
 Di sini akan ditampilkan perjalanan Saya dalam memahami Sistem Operasi

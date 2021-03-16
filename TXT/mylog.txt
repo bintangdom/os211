@@ -1,8 +1,6 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode https://osp4diss.vlsm.org/ETC/logCodes.txt
-
-# Week 0
 ZCZC W00 50 L00 General Log (Updating mylog.txt)
 ZCZC W00 120 L01 SCELE related
 ZCZC W00 100 L02 ZOOM related
@@ -15,8 +13,6 @@ ZCZC W00 300 L22 YouTube: Watching linux tutorial
 ZCZC W00 50 L23 Discord discussion (Checking info on Discord)
 ZCZC W00 180 L26 Movie Time and relax
 ZCZC W00 150 L99 Other (Belajar C language, Shell Scripting)
-
-# Week 1
 ZCZC W01 40 L00 General Log 
 ZCZC W01 60 L01 SCELE related
 ZCZC W01 100 L02 ZOOM related
@@ -37,8 +33,6 @@ ZCZC W01 20 L17 Assignment #7 : Update and PUSH back my log
 ZCZC W01 100 L18 Assignment #8 : Creating my w01.md for weekly TOP 10 list
 ZCZC W01 300 L22 YouTube: study, listening music
 ZCZC W01 200 L26 Movie Time and relax
-
-# Week 2
 ZCZC W02 60 L00 General Log 
 ZCZC W02 90 L01 SCELE related
 ZCZC W02 100 L02 ZOOM Class
@@ -57,7 +51,23 @@ ZCZC W02 30 L18 Assignment #8 : Write a simple and useful bash script
 ZCZC W02 30 L19 Assignment #9 : Update mylog.txt
 ZCZC W02 30 L20 Assignment #10 : Make SHA256SUM and sign it
 ZCZC W02 270 L22 YouTube: study, listening music
-ZCZC W02 100 L26 Movie Time and relax
+ZCZC W02 100 L26 Movie Time and 
+ZCZC W03 40 L00 General Log 
+ZCZC W03 90 L01 SCELE related
+ZCZC W03 100 L06 Reading OS Slides
+ZCZC W03 100 L02 ZOOM Class
+ZCZC W03 90 L11 Assignment #1 : Read OSC10 (chapter 13 + chapter 14 + chapter 15)
+ZCZC W03 70 L12 Assignment #2 : Demos Week 02 and Week 03
+ZCZC W03 20 L13 Assignment #3 : Visit Virtual Guest and update ".bash_aliases"
+ZCZC W03 50 L14 Assignment #4 : Visit and pick 3 out of my 10 closest neighbors
+ZCZC W03 180 L15 Assignment #5 : Create your TOP 10 List of Week 03
+ZCZC W03 20 L16 Assignment #6 : Update mylog.txt
+ZCZC W03 20 L17 Assignment #7 : Download W03.tar.bz2 to W03-FUSE.txt”
+ZCZC W03 20 L18 Assignment #8 : Update myscript.sh
+ZCZC W03 10 L19 Assignment #9 : Make SHA256SUM and sign it as SHA256SUM.asc
+ZCZC W02 270 L22 YouTube: study, listening music
+ZCZC W02 120 L26 Movie Time and relax
+
 
 
 

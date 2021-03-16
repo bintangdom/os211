@@ -1,11 +1,10 @@
 # RANK
-
-# Week 01
 ZCZC W01 blopblipblap
 ZCZC W01 cobrayyxx
 ZCZC W01 cornelita
-
-# Week 02
 ZCZC W02 cobrayyxx
 ZCZC W02 blopblipblap
 ZCZC W02 cornelita
+ZCZC W03 cornelita
+ZCZC W03 cobrayyxx
+ZCZC W03 blopblipblap

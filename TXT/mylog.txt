@@ -56,7 +56,7 @@ ZCZC W03 50 L00 General Log
 ZCZC W03 90 L01 SCELE related
 ZCZC W03 120 L06 Reading OS Slides
 ZCZC W03 100 L02 ZOOM Class
-ZCZC W01 100 L05 GSGS related for top 10 List of Week 03
+ZCZC W03 100 L05 GSGS related for top 10 List of Week 03
 ZCZC W03 100 L09 AsDos: asking question regarding assignment week 03
 ZCZC W03 90 L11 Assignment #1 : Read OSC10 (chapter 13 + chapter 14 + chapter 15)
 ZCZC W03 70 L12 Assignment #2 : Demos Week 02 and Week 03

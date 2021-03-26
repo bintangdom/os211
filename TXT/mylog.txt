@@ -69,6 +69,21 @@ ZCZC W03 20 L18 Assignment #8 : Update myscript.sh
 ZCZC W03 10 L19 Assignment #9 : Make SHA256SUM and sign it as SHA256SUM.asc
 ZCZC W03 300 L22 YouTube: study, listening music
 ZCZC W03 200 L26 Movie Time and relax
+ZCZC W04 100 L02 ZOOM Class
+ZCZC W04 90 L06 Reading Slides and Books
+ZCZC W04 50 L07 Demo related
+ZCZC W04 60 L12 Assignment #2 : try Demos on Week 4 and before
+ZCZC W04 45 L15 Assignment #5 : update mylog.txt
+ZCZC W04 90 L16 Assignment #6 : Download W04.tar.bz2 and tarballed as myW04.tar.bz2.asc
+ZCZC W04 15 L17 Assignment #7 : Update myscript.sh
+ZCZC W04 15 L18 Assignment #8 : Make SHA256SUM and sign it as SHA256SUM.asc
+ZCZC W04 200 L14 Assignment #4 : Create top ten list for week 4
+ZCZC W04 60 L13 Assignment #3 : Visit and pick 3 out of my 10 closest neighbors and eview Last Week TOP 10 List 
+ZCZC W04 60 L11 Assignment #1 : Read OSC10 (chapter 9)
+ZZCC W04 40 L10 Assignment (General)
+ZCZC W04 100 L05 GSGS for top 10 List of Week 04
+ZCZC W04 300 L22 YouTube: study, listening music
+ZCZC W04 200 L26 Movie Time and relax
 
 
 

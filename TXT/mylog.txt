@@ -99,7 +99,20 @@ ZZCC W05 40 L10 Assignment (General)
 ZCZC W05 150 L05 GSGS for top 10 List of Week 05
 ZCZC W05 300 L22 YouTube: study, listening music
 ZCZC W05 200 L26 Movie Time and relax
-
+ZCZC W06 100 L02 ZOOM Class
+ZCZC W06 120 L06 Reading Slides and Books
+ZCZC W06 60 L07 Demo related
+ZCZC W06 60 L11 Assignment #1 : Read OSC10 (chapter 03 dan 04)
+ZCZC W06 60 L12 Assignment #2 : Visit and pick 3 out of my 10 closest neighbors and eview Last Week TOP 10 List 
+ZCZC W06 60 L13 Assignment #3 : Create top ten list for week 6
+ZCZC W06 200 L14 Assignment #4 : Download WEEK06.tar.bz2.ASC and tarballed as myW06.tar.bz2.asc
+ZCZC W06 45 L15 Assignment #5 : update mylog.txt
+ZCZC W06 90 L16 Assignment #6 : Make SHA256SUM and sign it as SHA256SUM.asc
+ZCZC W06 15 L17 Assignment #7 : Update myscript.sh
+ZZCC W06 40 L10 Assignment (General)
+ZCZC W06 150 L05 GSGS for top 10 List of Week 05
+ZCZC W06 300 L22 YouTube: study, listening music
+ZCZC W06 200 L26 Movie Time and relax
 
 
 

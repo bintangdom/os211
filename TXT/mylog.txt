@@ -127,6 +127,20 @@ ZZCC W07 40 L10 Assignment (General)
 ZCZC W07 150 L05 GSGS for top 10 List of Week 07
 ZCZC W07 300 L22 YouTube: study, listening music
 ZCZC W07 200 L26 Movie Time and relax
+ZCZC W08 100 L02 ZOOM Class
+ZCZC W08 100 L06 Reading Slides and Books
+ZCZC W08 60 L07 Demo related
+ZCZC W08 60 L11 Assignment #1 : Read OSC10 (chapter 05)
+ZCZC W08 60 L12 Assignment #2 : Visit and pick 3 out of my 10 closest neighbors and review Last Week TOP 10 List 
+ZCZC W08 60 L13 Assignment #3 : Create top ten list for week 8
+ZCZC W08 150 L14 Assignment #4 : Linux from Scratch tarballed as myW08.tar.bz2.asc
+ZCZC W08 45 L15 Assignment #5 : update mylog.txt
+ZCZC W08 90 L16 Assignment #6 : Make SHA256SUM and sign it as SHA256SUM.asc
+ZCZC W08 15 L17 Assignment #7 : Update myscript.sh
+ZZCC W08 40 L10 Assignment (General)
+ZCZC W08 150 L05 GSGS for top 10 List of Week 08
+ZCZC W08 100 L22 YouTube: study, listening music
+ZCZC W08 100 L26 Movie Time and relax
 
 
 

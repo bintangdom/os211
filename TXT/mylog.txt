@@ -155,6 +155,21 @@ ZCZC W09 15 L17 Assignment #7 : Update myscript.sh
 ZZCC W09 40 L10 Assignment (General)
 ZCZC W09 100 L22 YouTube: study, listening music
 ZCZC W09 100 L26 Movie Time and relax
+ZCZC W10 100 L02 ZOOM Class
+ZCZC W10 100 L06 Reading Slides and Books
+ZCZC W10 60 L07 Demo related
+ZCZC W10 60 L11 Assignment #1 : Read OSC10 (chapter 12)
+ZCZC W10 60 L12 Assignment #2 : Visit and pick 3 out of my 10 closest neighbors and review Last Week TOP 10 List 
+ZCZC W10 60 L13 Assignment #3 : Create top ten list for week 10
+ZCZC W10 150 L14 Assignment #4 : Linux from Scratch tarballed as myW10.tar.bz2.asc
+ZCZC W10 45 L15 Assignment #5 : update mylog.txt
+ZCZC W10 90 L16 Assignment #6 : Make SHA256SUM and sign it as SHA256SUM.asc
+ZCZC W10 15 L17 Assignment #7 : Update myscript.sh
+ZZCC W10 40 L10 Assignment (General)
+ZCZC W10 150 L05 GSGS for top 10 List of Week 10
+ZCZC W10 100 L22 YouTube: study, listening music
+ZCZC W10 100 L26 Movie Time and relax
+
 
 
 
